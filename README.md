@@ -1,1 +1,2 @@
 # Breast-Cancer-Study
+Breast Cancer data of 683 women was obtained from the UC Irvine Machine Learning Repository. Eight different machine learning classification models were trained using Breast Cancer data. Sensitivity, precision and F1 score for each class and overall accuracy of each model were obtained to predict Malignant and Benign tumors. Model with the best performance on specified metrics was then recognized.
